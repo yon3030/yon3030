@@ -9,11 +9,18 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025766-5e1b4a99-194c-44c0-a345-791cc0910038.svg" width="50" alt="javascript" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917536-56a29dea-f9f0-449c-a3aa-19962ff21e95.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025841-0c104922-84d3-44ef-9dd4-328e62160068.svg" width="50" alt="react" style="max-width: 100%;">
+    <img height="50" src="https://mui.com/static/logo.svg" width="50" alt="MUI" style="max-width: 100%;">
+    <img height="50" src="https://x.com/chakra_ui/photo" width="50" alt="chakra UI" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186042940-666ff3ee-03b6-4ca3-b3a6-8639e84dc642.png" width="50" alt="next" style="max-width: 100%;">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" alt="tailwind CSS" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025905-170d6e48-45f8-4ff9-829c-e2f9a3ebc2be.svg" width="50" alt="vue" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025927-e6b4668e-5df8-4163-b8d4-25e70cab15b4.svg" width="50" alt="nuxt" style="max-width: 100%;">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="50" alt="Svelte" style="max-width: 100%;">
+    <img height="50" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="50" alt="Gatsby" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025974-69e906d5-5c58-4daa-b030-a6ef776049e2.svg" width="50" alt="typescript" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186026019-32fff28c-32ad-41fd-8061-a0b5e3c34add.svg" width="50" alt="angular" style="max-width: 100%;">
+    <img height="50" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest?cb=20231024190052" width="50" alt="GSAP" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186026019-32fff28c-32ad-41fd-8061-a0b5e3c34add.svg" width="50" alt="framer-motion" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917450-ffa74495-fbca-4035-9a26-b5ce5cb4737b.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186026679-d950eb7e-323a-47f3-9f86-7e6f08fdae76.svg" width="50" alt="php" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186026687-d764be08-d4be-4204-bf22-08d0878e1706.svg" width="50" alt="python" style="max-width: 100%;">
