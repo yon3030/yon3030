@@ -51,8 +51,7 @@
 
 ## _Contact me anytime_
 
-<a href=""><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
-<a href="https://tech-savvy.slack.com/"><img  width="60" src="https://w7.pngwing.com/pngs/345/302/png-transparent-chat-slack-slack-logo-social-media-icon-thumbnail.png"></a>
+<a href="https://discord.gg/nextjs"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
 <a href="mailto:jason1025yon@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
 
 <h5 color="red">Click anything for contact me (^_~)</h5>
