@@ -46,10 +46,10 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://www.svgrepo.com/svg/331592/stripe-v2" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://www.svgrepo.com/svg/354309/sanity" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://www.svgrepo.com/svg/353600/contentful" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="<img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://simpleicons.org/icons/stripe.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://simpleicons.org/icons/sanity.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://simpleicons.org/icons/contentful.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://simpleicons.org/icons/prismic.svg" width="50" alt="flutter" style="max-width: 100%;">
 </p>
 
 <p align=left>
