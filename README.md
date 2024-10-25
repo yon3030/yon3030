@@ -1,8 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
 
-
-
-## *Skill Set*
+## _Skill Set_
 
 <p algin="right" width="320px">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="50" alt="html" style="max-width: 100%;">
@@ -36,18 +34,16 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917486-146d3393-a4a6-470f-be1e-0791516d422d.svg" width="50" alt="VS" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186611812-c849fb14-df32-4419-9d9b-e455494e6062.svg" width="50" alt="mongo" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917553-eccece2f-4ad0-4cb1-aa24-01fa956999ec.svg" width="50" alt="mysql" style="max-width: 100%;">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="postgresql" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" width="50" alt="firebase" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045243-ceb3052a-8fb2-44ad-9a8a-ce445a21235f.png" width="50" alt="docker" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045949-1fb8064c-414e-4cf2-a3ca-c924a2e78cbc.png" width="50" alt="git" style="max-width: 100%;">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" alt="github" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612372-ac9f7cfd-79c2-41b4-8a03-3541ae005aa0.svg" width="50" alt="bitbuket" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917456-dc0e14b7-8397-4d92-b671-cd0ca44fba80.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917469-dd9db3c6-19e8-4fe9-8f85-7b16c1d64fad.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://developers.google.com/maps/images/maps-icon.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917456-dc0e14b7-8397-4d92-b671-cd0ca44fba80.svg" width="50" alt="paypal" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917469-dd9db3c6-19e8-4fe9-8f85-7b16c1d64fad.svg" width="50" alt="stripe" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="aws" style="max-width: 100%;">
+    <img height="50" src="https://developers.google.com/maps/images/maps-icon.svg" width="50" alt="google maps api" style="max-width: 100%;">
 </p>
 
 <p align=left>
@@ -55,9 +51,11 @@
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstar1205&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </p>
 
-## *Contact me anytime*
+## _Contact me anytime_
+
 <a href="https://discord.gg/ECVpNJFU"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
 <a href="https://t.me/superstar1205"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
 <a href="https://join.skype.com/invite/yLcFq5ao5Bvo"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
 <a href="mailto:dev.star1205@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
+
 <h5 color="red">Click anything for contact me (^_~)</h5>
