@@ -48,8 +48,8 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://simpleicons.org/icons/contentful.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://simpleicons.org/icons/prismic.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://developers.google.com/maps/images/maps-icon.svg" width="50" alt="flutter" style="max-width: 100%;">
+
 </p>
 
 <p align=left>
