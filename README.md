@@ -20,19 +20,13 @@
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" alt="tailwind CSS" style="max-width: 100%;">
     <img height="50" src="https://mui.com/static/logo.svg" width="50" alt="MUI" style="max-width: 100%;">
     <img height="50" src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" width="50" alt="chakra UI" style="max-width: 100%;">
-    <img height="50" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest?cb=20231024190052" width="50" alt="GSAP" style="max-width: 100%;">
     <img height="50" src="https://www.krijnrijshouwer.com/images/icons/gallery/framer.png" width="50" alt="framer-motion" style="max-width: 100%;">
+    <img height="50" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest?cb=20231024190052" width="50" alt="GSAP" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917450-ffa74495-fbca-4035-9a26-b5ce5cb4737b.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917507-ef0f9853-8cf3-4c2c-8144-7ca820a6f81a.svg" width="50" alt="C++" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186043168-aede50c9-2543-4039-a23b-1bc1a768ccd2.png" width="50" alt="wp" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186026679-d950eb7e-323a-47f3-9f86-7e6f08fdae76.svg" width="50" alt="php" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027027-c99f66d7-6b06-4e97-b960-1eaf54fa64c4.svg" width="50" alt="laravel" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186043571-7390d603-7b42-46bb-9b4f-8e825504418c.png" width="50" alt="android" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045207-650becf8-3df2-4f75-9136-5b226b5eaed8.png" width="50" alt="kotlin" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045219-49596b58-9a53-4688-83eb-8673aed69b7c.png" width="50" alt="ionic" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186046482-aa19c836-d723-4331-b797-bb9874d3a15f.png" width="50" alt="ios" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186047497-93bda600-d669-48e6-afc8-600cab80b2a8.png" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917501-936a1fe5-fae1-4fd7-95e1-b811bfa8cc45.svg" width="50" alt="app" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186611812-c849fb14-df32-4419-9d9b-e455494e6062.svg" width="50" alt="mongo" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917553-eccece2f-4ad0-4cb1-aa24-01fa956999ec.svg" width="50" alt="mysql" style="max-width: 100%;">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="postgresql" style="max-width: 100%;">
@@ -47,9 +41,18 @@
     <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4VfMz9lraNOp-j8kq32nlmdWPcqoasjYuS9Umj7MxH2D4eGFBNBeIDoxmcBAhyDMSWyY&usqp=CAU" width="50" alt="prismic" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="aws" style="max-width: 100%;">
     <img height="50" src="https://developers.google.com/maps/images/maps-icon.svg" width="50" alt="google maps api" style="max-width: 100%;">
+    <img height="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/graphql_playground_macos_bigsur_icon_190105.png" width="50" alt="GraphQL" style="max-width: 100%;">
 </p>
 
 <p align=left>
 <img algin="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=yon3030&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yon3030&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </p>
+
+## _Contact me anytime_
+
+<a href=""><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
+<a href="https://tech-savvy.slack.com/"><img  width="60" src="https://w7.pngwing.com/pngs/345/302/png-transparent-chat-slack-slack-logo-social-media-icon-thumbnail.png"></a>
+<a href="mailto:jason1025yon@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
+
+<h5 color="red">Click anything for contact me (^_~)</h5>
