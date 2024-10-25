@@ -51,7 +51,6 @@
 
 ## _Contact me anytime_
 
-<a href="https://discord.gg/nextjs"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
+<a href="https://discord.gg/nextjs"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png" title="Join me on the Next.js Discord Server, username: crazybestdev, id: xiaofei1025_70562"></a>
 <a href="mailto:jason1025yon@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
-
 <h5 color="red">Click anything for contact me (^_~)</h5>
