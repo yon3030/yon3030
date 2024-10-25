@@ -46,8 +46,8 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Stripe_Logo%2C_revised_2016.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://simpleicons.org/icons/sanity.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://simpleicons.org/icons/contentful.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://simpleicons.org/icons/prismic.svg" width="50" alt="flutter" style="max-width: 100%;">
 </p>
