@@ -1,6 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
 
-<img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=superstar1205&data=followers,repositories,stars,commits">
+
 
 ## *Skill Set*
 
@@ -46,9 +46,20 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://www.svgrepo.com/svg/331592/stripe-v2" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://www.svgrepo.com/svg/354309/sanity" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="https://www.svgrepo.com/svg/353600/contentful" width="50" alt="flutter" style="max-width: 100%;">
+    <img height="50" src="<img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">" width="50" alt="flutter" style="max-width: 100%;">
 </p>
 
 <p align=left>
 <img algin="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=superstar1205&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstar1205&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </p>
+
+## *Contact me anytime*
+<a href="https://discord.gg/ECVpNJFU"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
+<a href="https://t.me/superstar1205"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
+<a href="https://join.skype.com/invite/yLcFq5ao5Bvo"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
+<a href="mailto:dev.star1205@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
+<h5 color="red">Click anything for contact me (^_~)</h5>
