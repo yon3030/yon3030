@@ -21,13 +21,12 @@
     <img height="50" src="https://mui.com/static/logo.svg" width="50" alt="MUI" style="max-width: 100%;">
     <img height="50" src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" width="50" alt="chakra UI" style="max-width: 100%;">
     <img height="50" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest?cb=20231024190052" width="50" alt="GSAP" style="max-width: 100%;">
-    <img height="50" src="https://dribbble.com/shots/2853336-Framer-for-iOS-Icon/attachments/9519743?mode=media" width="50" alt="framer-motion" style="max-width: 100%;">
+    <img height="50" src="https://cdn.dribbble.com/users/4878/screenshots/15802274/media/0095503c7019e158ae31ed7becf5ad24.png" width="50" alt="framer-motion" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917450-ffa74495-fbca-4035-9a26-b5ce5cb4737b.svg" width="50" alt="flutter" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186026679-d950eb7e-323a-47f3-9f86-7e6f08fdae76.svg" width="50" alt="php" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917507-ef0f9853-8cf3-4c2c-8144-7ca820a6f81a.svg" width="50" alt="C++" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186043168-aede50c9-2543-4039-a23b-1bc1a768ccd2.png" width="50" alt="wp" style="max-width: 100%;">
+    <img height="50" src="https://user-images.githubusercontent.com/86986628/186026679-d950eb7e-323a-47f3-9f86-7e6f08fdae76.svg" width="50" alt="php" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027027-c99f66d7-6b06-4e97-b960-1eaf54fa64c4.svg" width="50" alt="laravel" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186027080-6bea84b1-e7fb-4fa4-9602-a77043e7f797.svg" width="50" alt="flask" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186043571-7390d603-7b42-46bb-9b4f-8e825504418c.png" width="50" alt="android" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045207-650becf8-3df2-4f75-9136-5b226b5eaed8.png" width="50" alt="kotlin" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045219-49596b58-9a53-4688-83eb-8673aed69b7c.png" width="50" alt="ionic" style="max-width: 100%;">
