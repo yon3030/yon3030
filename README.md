@@ -13,9 +13,6 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025905-170d6e48-45f8-4ff9-829c-e2f9a3ebc2be.svg" width="50" alt="vue" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186025927-e6b4668e-5df8-4163-b8d4-25e70cab15b4.svg" width="50" alt="nuxt" style="max-width: 100%;">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="50" alt="Svelte" style="max-width: 100%;">
-    <img height="50" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="50" alt="Gatsby" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186026019-32fff28c-32ad-41fd-8061-a0b5e3c34add.svg" width="50" alt="angular" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917541-b49543ba-a527-4ea7-8b4f-7e1618f560e2.svg" width="50" alt="meteor" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186607780-2ba1472e-07e5-4a98-9108-968ca3550229.svg" width="50" alt="bootstrap" style="max-width: 100%;">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" alt="tailwind CSS" style="max-width: 100%;">
     <img height="50" src="https://mui.com/static/logo.svg" width="50" alt="MUI" style="max-width: 100%;">
@@ -23,17 +20,13 @@
     <img height="50" src="https://www.krijnrijshouwer.com/images/icons/gallery/framer.png" width="50" alt="framer-motion" style="max-width: 100%;">
     <img height="50" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest?cb=20231024190052" width="50" alt="GSAP" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917450-ffa74495-fbca-4035-9a26-b5ce5cb4737b.svg" width="50" alt="node.js" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917507-ef0f9853-8cf3-4c2c-8144-7ca820a6f81a.svg" width="50" alt="C++" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186043168-aede50c9-2543-4039-a23b-1bc1a768ccd2.png" width="50" alt="wp" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186026679-d950eb7e-323a-47f3-9f86-7e6f08fdae76.svg" width="50" alt="php" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027027-c99f66d7-6b06-4e97-b960-1eaf54fa64c4.svg" width="50" alt="laravel" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186611812-c849fb14-df32-4419-9d9b-e455494e6062.svg" width="50" alt="mongo" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917553-eccece2f-4ad0-4cb1-aa24-01fa956999ec.svg" width="50" alt="mysql" style="max-width: 100%;">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="postgresql" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" width="50" alt="firebase" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045243-ceb3052a-8fb2-44ad-9a8a-ce445a21235f.png" width="50" alt="docker" style="max-width: 100%;">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" alt="github" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186612372-ac9f7cfd-79c2-41b4-8a03-3541ae005aa0.svg" width="50" alt="bitbuket" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917456-dc0e14b7-8397-4d92-b671-cd0ca44fba80.svg" width="50" alt="paypal" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917469-dd9db3c6-19e8-4fe9-8f85-7b16c1d64fad.svg" width="50" alt="stripe" style="max-width: 100%;">
     <img height="50" src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" width="50" alt="strapi" style="max-width: 100%;">
